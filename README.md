@@ -1,5 +1,5 @@
 # Document-Scanner :bookmark_tabs:
-- Fun And Useful Scanner. Based on OpenCV
+- Fun And Useful Scanner. Based on OpenCV & QT
 ## Installing dependencies:
 
 - Execute `$ pip install -r requirements.txt`
