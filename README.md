@@ -8,7 +8,7 @@
 
 ## Dependencies
 - Install Dependencies `$ pip install -r requirements.txt`
-- Download model weights [Here](https://github.com/), place it in `Structure/`
+- Download model weights [Here](https://drive.google.com/drive/folders/1fs-PqE-yNvbis628gpS5-UaTSR2Xli8J?usp=sharing), place it in `Structure/`
 
 ## Usage:
 ```python
