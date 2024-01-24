@@ -1,4 +1,5 @@
 # Document Scanner :bookmark_tabs:
+[U-Net](https://arxiv.org/abs/1505.04597v1) Like Pretrained Model For Scene Document Detection ([pytorch](https://pytorch.org/), [Semantic Segmentation](https://paperswithcode.com/task/semantic-segmentation))
 
 #### **Quick Links**
 - [Dependencies](#Dependencies)
@@ -23,7 +24,7 @@ Load model.
 Read image in gray scale and resize it to 256*256.
 
 ```python
-    mask = scanner.ScanView(org_resize)
+  mask = scanner.ScanView(org_resize)
 ```
 Detect document area.
 
@@ -45,3 +46,7 @@ Enhance extracted document.
 ![](Images/1704640185357_det.jpg)
 ![](Images/1704721611426_det.jpg)
 ![](Images/1705745193148_det.jpg)
+
+
+### 🛡️ License <a name="license"></a>
+Project is distributed under [MIT License](https://github.com/Saeed-Biabani/Document-Scanner/blob/main/LICENSE)
